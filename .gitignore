@@ -1,5 +1,19 @@
+
+!**/src/main/**
+!**/src/test/**
+
 # Compiled class file
 *.class
+
+### Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Gradle
+.gradle
+.build
 
 # Log file
 *.log
